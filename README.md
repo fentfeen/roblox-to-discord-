@@ -17,12 +17,12 @@
 
 ## setup
 
-# discord bot
+- discord bot
 1. edit discord bot token, github token and repository info in discord.py.
 
 2. in [discord.py](https://github.com/fentfeen/roblox-to-discord-/blob/main/src/bot.py) find the owner id part (line 28) and set it to the owners userid (this use can use all commands no matter what)
 
-# roblox
+- roblox
 1. in serverscriptstorage, paste the [provided script](https://github.com/fentfeen/roblox-to-discord-/blob/main/src/roblox.lua) in and change the github info.
 
 2. save the game and enable "Allow http Requests".
