@@ -1,7 +1,7 @@
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 
-local bannedUserIdsUrl = "https://raw.githubusercontent.com/fentfeen/rtd-recourses-/refs/heads/main/bans"
+local bannedUserIdsUrl = "RAW-LINK-TO-BANNED-PLAYERS"
 
 local function fetchBannedUserIds()
     local success, response = pcall(function()
