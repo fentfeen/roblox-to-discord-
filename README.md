@@ -15,7 +15,7 @@
 - !helpp: Lists available commands.
 - Role management (setadmin, whitelist, blacklist) uses Discord's guild roles to control user permissions.
 
-#setup
+## setup
 
 # discord bot
 1. edit discord bot token, github token and repository info in discord.py.
